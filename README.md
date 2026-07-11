@@ -1,4 +1,4 @@
-# Simple Notes App By Hitesh Rawat
+# Notes App By Hitesh Rawat
 This is a simple notes app built with React and Django.
 
 ## Requirements
